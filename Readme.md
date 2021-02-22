@@ -9,13 +9,11 @@ thnq4 comming here and i hope they helped : )<br />
    <br/><br/><br/>
 <h2 align="center">💡 Tech Stacks 💡</h2><br />
 <p align="center">
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-
 </p>
 <br />
 <h2 align="center">👉 About Me 👈</h2><br />
