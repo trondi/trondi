@@ -2,10 +2,10 @@
 
 <p align="center">
 
-Hello im Sukyoung😊
+Hello im Sukyoung😊<br /><br />
 
-I'm studyung programming.
-thnq4 comming here and i hope they helped :)
+I'm studyung programming.<br />
+thnq4 comming here and i hope they helped :)<br />
 
    <br/>
    <br/>
