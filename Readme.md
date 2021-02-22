@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Erica🎈&fontSize=90)
-<center>Hello im erica😊
+<center>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Trond&fontSize=90)
+
+Hello im trond😊
 
 I'm studyung programming.
 thnq4 comming here and i hope they helped :)
