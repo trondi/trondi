@@ -8,7 +8,8 @@ thnq4 comming here and i hope they helped : )<br />
 </p>
    <br/><br/><br/>
 
-<p align="center">💡 Tech Stacks 💡</p><br />
+<h3 align="center">💡 Tech Stacks 💡</h3><br />
+
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -18,7 +19,8 @@ thnq4 comming here and i hope they helped : )<br />
 </p>
 
 <br />
-<p align="center">👉 About Me 👈</p><br />
+<h3 align="center">👉 About Me 👈</h3><br />
+
 <p align="center">
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" href="https://github.com/ericabyss" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Blog-ff5722?style=flat-square&logo=Blogger&logoColor=white" href="https://trond-soo.tistory.com/" />&nbsp;&nbsp;&nbsp;
