@@ -22,8 +22,8 @@ thnq4 comming here and i hope they helped : )<br />
 <h3 align="center">👉 About Me 👈</h3><br />
 
 <p align="center">
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" href="https://github.com/ericabyss" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Blog-ff5722?style=flat-square&logo=Blogger&logoColor=white" href="https://trond-soo.tistory.com/" />&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ericabyss"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"  /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://trond-soo.tistory.com/"><img src="https://img.shields.io/badge/Blog-ff5722?style=flat-square&logo=Blogger&logoColor=white"  /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:trond746@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"  alt="Gmail" /></a>
 
 </p>
