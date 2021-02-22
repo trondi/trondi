@@ -6,7 +6,7 @@
 I'm Sukyoung, a junior full-stack developer. 🐥<br />
 thnq4 comming here and i hope they helped : )<br />
 </p>
-   <br/><br/><br/>
+   <br/><br/>
 
 <h3 align="center">💡 Tech Stacks 💡</h3><br />
 
