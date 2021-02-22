@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=Ericabyss&fontSize=95&animation=twinkling&align=center)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Ericabyss&fontSize=95&animation=twinkling&align=center)
 <br /><br />
 
 <h3 align="center">Hello! 😊</h3><br />
