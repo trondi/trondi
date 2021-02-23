@@ -34,6 +34,6 @@ thnq4 comming here and i hope they helped : )<br />
 </p>
 <br /><br /><br /><br/>
 
-![ericabyss's github stats](https://github-readme-stats.vercel.app/api?ericabyss=ericabyss)](https://github.com/ericabyss/github-readme-stats)
+![ericabyss's github stats](https://github-readme-stats.vercel.app/api?ericabyss=ericabyss)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=footer&text=%20&fontSize=90)
