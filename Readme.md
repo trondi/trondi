@@ -27,18 +27,18 @@ thnq4 comming here and i hope they helped : )<br />
 <h3 align="center">👉 About Me 👈</h3><br />
 
 <p align="center">
-<a href="https://github.com/ericabyss" target="_blank"><img src="https://img.shields.io/badge/TIL-ffff00?style=flat-square&logo=Github&logoColor=white"  /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/trondi" target="_blank"><img src="https://img.shields.io/badge/TIL-ffff00?style=flat-square&logo=Github&logoColor=white"  /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://trond-soo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ff5722?style=flat-square&logo=Blogger&logoColor=white"  /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:trond746@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"  alt="Gmail" /></a>
 
 </p>
 <br /><br />
 
-[![ericabyss's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericabyss&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ericabyss's GitHub stats](https://github-readme-stats.vercel.app/api?username=trondi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericabyss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ericabyss's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericabyss)](https://github.com/anuraghazra/github-readme-stats)
+[![ericabyss's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trondi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=footer&text=%20&fontSize=90)
