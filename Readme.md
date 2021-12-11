@@ -39,8 +39,8 @@ thnq4 comming here and i hope they helped : )<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
   
 <!--[![trondi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trondi)](https://github.com/anuraghazra/github-readme-stats)-->
 
