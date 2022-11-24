@@ -33,19 +33,19 @@ thnq4 comming here and i hope they helped : )<br />
 
 </p>
 <br /><br />
-
+<!--
 [![trondi's GitHub stats](https://github-readme-stats.vercel.app/api?username=trondi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--[![trondi's GitHub stats](https://github-readme-stats.vercel.app/api?username=trondi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
  <!--START_SECTION:waka-->
  <!--END_SECTION:waka-->
-  
+  <!--
 [![trondi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trondi)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=footer&text=%20&fontSize=90)
