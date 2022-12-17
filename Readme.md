@@ -3,7 +3,7 @@
 
 <h3 align="center">Hello! 😊</h3><br />
 <p align="center">
-I'm Sookyoung, a junior full-stack developer. 🐥<br />
+I'm Trondi, a junior developer. 🐥<br />
 thnq4 comming here and i hope they helped : )<br />
 </p>
    <br/>
