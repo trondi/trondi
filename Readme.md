@@ -1,5 +1,7 @@
 <div align="center">
- <img align="right" alt="trondi's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=trondi" width="300px" />
+ <!-- <img align="right" alt="trondi's wakatime stats" src="https://github-readme-stats.vercel.app/api?username=trondi&show_icons=true&theme=transparent" width="300px" /> -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
 
 ## Soo Kyoung
 
@@ -13,14 +15,11 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     <br />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
-    <h3> 👉 Link 👈</h3>
+    <h3> 👉 Link 👈</h3> 
     <a href="https://github.com/trondi" target="_blank"><img src="https://img.shields.io/badge/TIL-ffff00?style=flat-square&logo=Github&logoColor=white"  /></a>
     <a href="https://github.com/trondi" target="_blank"><img src="https://img.shields.io/badge/Github-ffff?style=flat-square&logo=Github&logoColor=white"  /></a>
     <a href="https://trond-soo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ff5722?style=flat-square&logo=Blogger&logoColor=white"  /></a>
     <a href="mailto:trond746@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"  alt="Gmail" /></a>
 </div>
-<br />
-<img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact" width="200px" />
+       <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact" /> 
 </div>
