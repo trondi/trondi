@@ -15,8 +15,8 @@
     <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> -->
     <br />
-
-<h3 align="left"> 👉 Link 👈</h3>
+<div>
+<h3> 👉 Link 👈</h3>
 
 <a href="https://github.com/trondi" target="_blank"><img src="https://img.shields.io/badge/TIL-ffff00?style=flat-square&logo=Github&logoColor=white"  /></a>
 <a href="https://github.com/trondi" target="_blank"><img src="https://img.shields.io/badge/Github-ffff?style=flat-square&logo=Github&logoColor=white"  /></a>
@@ -25,5 +25,5 @@
 <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact" />
 
 </div>
-     
+</div>
 </div>
