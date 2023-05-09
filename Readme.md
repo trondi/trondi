@@ -1,10 +1,10 @@
 <div align="center">
 
 <div align="right">
-<div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
+<div align="right">
+<img  src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
 </div>
-<div>
+<div align="right">
     <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact" width="250" />
 </div>
 </div>
@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> -->
 
 <h3> 👉 Link 👈</h3>
-
 <a href="https://github.com/trondi" target="_blank"><img src="https://img.shields.io/badge/TIL-ffff00?style=flat-square&logo=Github&logoColor=white"  /></a>
 <a href="https://github.com/trondi" target="_blank"><img src="https://img.shields.io/badge/Github-ffff?style=flat-square&logo=Github&logoColor=white"  /></a>
 <a href="https://trond-soo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ff5722?style=flat-square&logo=Blogger&logoColor=white"  /></a>
