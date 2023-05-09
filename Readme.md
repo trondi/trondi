@@ -5,12 +5,12 @@
     <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact" width="250" />
 
 </div>
+<div align="left">
 
 ## Soo Kyoung
 
 ### 💡 Tech Stacks 💡
 
-<div align="left">
   <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
