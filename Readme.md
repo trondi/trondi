@@ -24,7 +24,10 @@
 <a href="mailto:trond746@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"  alt="Gmail" /></a>
 
 </div>
-
-</div>
-<img alt="github-readme-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=trondi&theme=tokyonight" width="300px" />
+<div>
+<img alt="github-readme-streak-stats" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=trondi&theme=tokyonight" width="300px" />
+  </div>
+  <div>
 <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact" width="250" />
+</div>
+</div>
