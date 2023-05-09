@@ -1,14 +1,9 @@
 <div align="center">
-
-<div align="right">
-
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
 
 ## Soo Kyoung
 
 ### 💡 Tech Stacks 💡
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
 
 <div align="left">
   <div align="center">
