@@ -17,11 +17,12 @@
     <br />
    
 <h3> 👉 Link 👈</h3>
- <img alt="github-readme-streak-stats " src="https://github-readme-streak-stats.herokuapp.com/?user=trondi&theme=tokyonight" width="300px" />
+
 <a href="https://github.com/trondi" target="_blank"><img src="https://img.shields.io/badge/TIL-ffff00?style=flat-square&logo=Github&logoColor=white"  /></a>
 <a href="https://github.com/trondi" target="_blank"><img src="https://img.shields.io/badge/Github-ffff?style=flat-square&logo=Github&logoColor=white"  /></a>
 <a href="https://trond-soo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ff5722?style=flat-square&logo=Blogger&logoColor=white"  /></a>
 <a href="mailto:trond746@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"  alt="Gmail" /></a>
+<img alt="github-readme-streak-stats " src="https://github-readme-streak-stats.herokuapp.com/?user=trondi&theme=tokyonight" width="300px" />
 
 </div>
 
