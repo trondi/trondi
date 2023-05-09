@@ -1,15 +1,16 @@
 <div align="center">
 
 <div align="right">
-<div align="right">
-<img  src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
-</div>
 
 </div>
 
 ## Soo Kyoung
 
 ### 💡 Tech Stacks 💡
+
+<div align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
+</div>
 
 <div align="left">
   <div align="center">
