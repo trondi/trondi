@@ -14,6 +14,7 @@
     <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> -->
     <br />
+    <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact" width="250" />
    
 <h3> 👉 Link 👈</h3>
 
@@ -25,7 +26,5 @@
 </div>
 
 <!-- <img alt="github-readme-streak-stats" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=trondi&theme=tokyonight" width="300px" /> -->
-
-<img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact" width="250" />
 
 </div>
