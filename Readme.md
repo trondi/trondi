@@ -1,8 +1,9 @@
 <div align="center">
 
-<div align="right>
+<div align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
     <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact" width="250" />
+
 </div>
 
 ## Soo Kyoung
