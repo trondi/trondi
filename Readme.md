@@ -1,4 +1,5 @@
 <div align="center">
+
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
 
 ## Soo Kyoung
@@ -11,12 +12,16 @@
   <img src="https://img.shields.io/badge/Redux-3178C6?style=flat-square&logo=Redux&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> -->
+
   <br>
+
 </div>
+
 <div align="center">
+
   <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact" width="250" />
- 
- ### 👉 Link 👈
+
+### 👉 Link 👈
 
 <a href="https://github.com/trondi" target="_blank"><img src="https://img.shields.io/badge/TIL-ffff00?style=flat-square&logo=Github&logoColor=white"  /></a>
 <a href="https://github.com/trondi" target="_blank"><img src="https://img.shields.io/badge/Github-ffff?style=flat-square&logo=Github&logoColor=white"  /></a>
