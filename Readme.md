@@ -1,13 +1,16 @@
 <div align="center">
 
+<div align="right>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
     <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trondi&layout=compact" width="250" />
+</div>
 
 ## Soo Kyoung
 
 ### 💡 Tech Stacks 💡
 
-<div align="center">
+<div align="left">
+  <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -23,7 +26,7 @@
 <a href="mailto:trond746@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"  alt="Gmail" /></a>
 
 </div>
-
+</div>
 <!-- <img alt="github-readme-streak-stats" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=trondi&theme=tokyonight" width="300px" /> -->
 
 </div>
